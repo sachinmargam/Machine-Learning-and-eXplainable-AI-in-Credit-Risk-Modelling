@@ -1,4 +1,4 @@
-# Machine-Learning-and-eXplainable-AI-in-Credit-Risk-Modelling
+# Machine Learning and eXplainable AI in Credit Risk Modelling
 ![image](https://www.knime.com/sites/default/files/styles/inline_medium/public/xai-banking-financial-services.png?itok=_hblRAYW)
 
 ## Abstract
